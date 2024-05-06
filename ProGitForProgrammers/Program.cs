@@ -4,3 +4,4 @@ Console.WriteLine("I just added this in Visual Studio");
 Console.WriteLine("I just added this in the command line repo");
 Console.WriteLine("This line added to show the staging area");
 Console.WriteLine("This line added for test purpose");
+Console.WriteLine("This line added to test merge conflicts");
